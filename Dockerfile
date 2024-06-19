@@ -59,3 +59,5 @@ else
 fi
 	
 echo "END Running Jmeter on `date`"
+
+https://github.com/karthiksurabathula/jmeter/blob/master/kubernetes-init/jmeter-master.yaml.bak
